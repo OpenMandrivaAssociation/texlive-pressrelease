@@ -1,6 +1,6 @@
 Name:		texlive-pressrelease
 Version:	35147
-Release:	1
+Release:	2
 Summary:	A class for typesetting press releases
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pressrelease
