@@ -3,7 +3,7 @@ Version:	35147
 Release:	2
 Summary:	A class for typesetting press releases
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pressrelease
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pressrelease
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pressrelease.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pressrelease.doc.r%{version}.tar.xz
